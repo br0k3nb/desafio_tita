@@ -56,7 +56,7 @@ class ColorPages extends StatelessWidget {
           heightFactor: 1.6,
           child: IconButton(
               onPressed: triggerDialog,
-              icon: Icon(Icons.arrow_back_outlined)
+              icon: const Icon(Icons.arrow_back_outlined)
           ),
         ),
         backgroundColor: Colors.purple[100],

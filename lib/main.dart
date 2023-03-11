@@ -88,7 +88,7 @@ class Home extends StatelessWidget {
             ),
           ],
         )
-      )// body: ,
+      )
     );
   }
 }
